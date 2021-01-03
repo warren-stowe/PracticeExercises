@@ -50,9 +50,17 @@ namespace ProgrammingStudies
             }
 
             Console.WriteLine("**** " + people[3].City);
-            
-            
 
+            int[] nums = Data.GenerateRandomIntArray(1000, 0, 100);
+
+            SortingAlgorithmsAnswers.SelectionSort(nums);
+
+            for (int i = 0; i < nums.Length; i++)
+            {
+                Console.WriteLine($"{i + 1}: {nums[i]}");
+            }
+
+            Console.WriteLine(SearchingAlgorithmsAnswers.BinarySearch(nums, 75));
         }
 
     }

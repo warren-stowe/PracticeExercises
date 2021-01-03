@@ -7,6 +7,19 @@ namespace ProgrammingStudies.MockData
     public static class Data
     {
 
+        public static int[] GenerateRandomIntArray(int size, int min, int max)
+        {
+            Random random = new Random();
+            int[] output = new int[size];
+
+            for (int i = 0; i < output.Length; i++)
+            {
+                output[i] = random.Next(min, max);
+            }
+
+            return output;
+        }
+
         public static List<Person> ListOfPeople { get; set; } = new List<Person>()
         {
             { new Person("Warren", "Stowe", 35, "Pittsburgh", "PA", 1) },

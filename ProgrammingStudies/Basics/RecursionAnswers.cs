@@ -4,8 +4,9 @@ using System.Text;
 
 namespace ProgrammingStudies.Basics
 {
-    public class Recursion
+    public class RecursionAnswers
     {
+
         public int Factorial(int num)
         {
             if (num == 1)
