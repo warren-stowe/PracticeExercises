@@ -1,0 +1,13 @@
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.exe
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.deps.json
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.runtimeconfig.json
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.runtimeconfig.dev.json
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.dll
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.pdb
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.csprojAssemblyReference.cache
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.AssemblyInfoInputs.cache
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.AssemblyInfo.cs
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.csproj.CoreCompileInputs.cache
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.dll
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.pdb
+D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.genruntimeconfig.cache
