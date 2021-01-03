@@ -8,8 +8,6 @@
 // Implement a property with an expression body
 // Implement a validation property
 // Implement a property that is accessible anywhere but whose value can only be changed within the class
-// Implement a property with a ternary operator that
-    // validates input and throws a new exception
 // Implement a Computed Property
 // Implement a Cached Evaluated Property
 
