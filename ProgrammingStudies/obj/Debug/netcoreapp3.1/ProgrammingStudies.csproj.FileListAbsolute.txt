@@ -11,3 +11,16 @@ D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.
 D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.dll
 D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.pdb
 D:\source\non-repos\ProgrammingStudies\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.genruntimeconfig.cache
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.exe
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.deps.json
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.runtimeconfig.json
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.runtimeconfig.dev.json
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.dll
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\bin\Debug\netcoreapp3.1\ProgrammingStudies.pdb
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.csprojAssemblyReference.cache
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.AssemblyInfoInputs.cache
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.AssemblyInfo.cs
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.csproj.CoreCompileInputs.cache
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.dll
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.pdb
+C:\Users\stowe\source\repos\PracticeExercises\ProgrammingStudies\obj\Debug\netcoreapp3.1\ProgrammingStudies.genruntimeconfig.cache
