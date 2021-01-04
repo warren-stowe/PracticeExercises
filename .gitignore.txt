@@ -3,6 +3,9 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+ProgrammingStudies/obj/Debug/netcoreapp3.1/ProgrammingStudies.assets.cache
+ProgrammingStudies/obj/Debug/netcoreapp3.1/ProgrammingStudies.csprojAssemblyReference.cache
+
 # User-specific files
 *.rsuser
 *.suo
