@@ -5,6 +5,15 @@
 
 ProgrammingStudies/obj/Debug/netcoreapp3.1/ProgrammingStudies.assets.cache
 ProgrammingStudies/obj/Debug/netcoreapp3.1/ProgrammingStudies.csprojAssemblyReference.cache
+.vs/ProgrammingStudies/DesignTimeBuild/.dtbcache.v2
+.vs/ProgrammingStudies/v16/.suo
+ProgrammingStudies/obj/Debug/netcoreapp3.1/ProgrammingStudies.assets.cache
+ProgrammingStudies/obj/Debug/netcoreapp3.1/ProgrammingStudies.csprojAssemblyReference.cache
+ProgrammingStudies/obj/ProgrammingStudies.csproj.nuget.dgspec.json
+ProgrammingStudies/obj/ProgrammingStudies.csproj.nuget.g.props
+ProgrammingStudies/obj/project.assets.json
+ProgrammingStudies/obj/project.nuget.cache
+
 
 # User-specific files
 *.rsuser
